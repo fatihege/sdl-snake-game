@@ -1,6 +1,6 @@
-#include <iostream>
+#include "src/Game.h"
 
-int main() {
-    std::cout << "Hello, World!" << std::endl;
+int main(int argc, char *argv[]) {
+    Game().run();
     return 0;
 }
