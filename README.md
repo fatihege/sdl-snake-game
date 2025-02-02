@@ -92,8 +92,6 @@ snake-game/
 │   ├── Game.h              # Game logic header
 │   ├── Renderer.cpp        # Handles rendering of game objects (snake, food, score)
 │   ├── Renderer.h          # Header for the Renderer class
-│   ├── InputHandler.cpp    # Handles user input (keyboard controls)
-│   ├── InputHandler.h      # Header for the InputHandler class
 │   ├── Snake.cpp           # Snake logic implementation
 │   ├── Snake.h             # Snake logic header
 │   ├── Food.cpp            # Food logic implementation

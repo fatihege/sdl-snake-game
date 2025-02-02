@@ -11,8 +11,6 @@ add_executable(sdl_snake_game main.cpp
         src/Game.h
         src/Renderer.cpp
         src/Renderer.h
-        src/InputHandler.cpp
-        src/InputHandler.h
         src/Snake.cpp
         src/Snake.h
         src/Food.cpp

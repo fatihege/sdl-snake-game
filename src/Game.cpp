@@ -30,7 +30,7 @@ void Game::run() {
                         std::cout << "D\n";
                         break;
                     case SDLK_ESCAPE:
-                        std::cout << "ESC\n";
+                        gameOver = true;
                         break;
                     default: ;
                 }
